@@ -15,7 +15,7 @@ A simple but powerful **Command-Line ChatBot** using **Google's Gemini API**, wi
 
 ## 🗂️ Project Files
 ```
-muxxChatClient_optimized.py
+muxxChatClient.py
 .env.example
 ```
 
