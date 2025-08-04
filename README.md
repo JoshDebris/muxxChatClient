@@ -34,7 +34,7 @@ muxxChatClient.py
 
 3. Run the ChatClient:
    ```bash
-   python muxxChatClient_optimized.py
+   python muxxChatClient.py
    ```
 
 4. Start chatting! (Type `exit` to leave the conversation.)
