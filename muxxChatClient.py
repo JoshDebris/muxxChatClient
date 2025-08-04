@@ -42,7 +42,7 @@ def chat():
         context_str = "\n".join(context)
 
         # Spinner during processing
-        with yaspin(text="Denke nach...", color="yellow") as spinner:
+        with yaspin(text="Thinking...", color="yellow") as spinner:
             try:
                 response = model.generate_content(context_str)
                 bot_reply = response.text.strip()
