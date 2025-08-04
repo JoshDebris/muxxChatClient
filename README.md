@@ -43,10 +43,10 @@ muxxChatClient.py
 
 ## 🖥️ Example Session
 ```
-👽 Du: Hello there!
+👽 You: Hello there!
 🤖 Bot: Hello! How can I assist you today?
 
-👽 Du: Tell me a joke.
+👽 You: Tell me a joke.
 🤖 Bot: Why don’t skeletons fight each other? They don’t have the guts.
 ```
 
