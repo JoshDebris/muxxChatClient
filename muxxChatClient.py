@@ -24,7 +24,7 @@ def chat():
 
     while True:
         # User input
-        user_input = input(f"{Fore.CYAN}👽 Du: {attr('reset')}")
+        user_input = input(f"{Fore.CYAN}👽 You: {attr('reset')}")
 
         # Option to end the conversation
         if user_input.lower() == "exit":
